@@ -1,0 +1,20 @@
+.nav{
+    background-color: rgb(186, 218, 228);
+    height: 80px;
+}
+.nav img{
+    height: 60px;
+}
+.box{
+    border: 1px solid black;
+
+    height: 280px;
+    width: 100px;
+}
+.but{
+    width: 500px;
+    
+}
+.tg{
+    width: 300px;
+}
